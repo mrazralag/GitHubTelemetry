@@ -1,0 +1,7 @@
+{
+  "git_base_url": "https://api.github.com",
+  "git_repo_url": "https://api.github.com/repos/cubehouse/themeparks",
+  "git_username": "mrgabriel.galarza@gmail.com",
+  "git_access_token": "08a0a0e5917897ad678aec6cf338832d670dfe95",
+  "azure_blob_container":  "telemetry"
+}
