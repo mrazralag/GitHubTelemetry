@@ -1,0 +1,7 @@
+{
+  "git_base_url": "https://api.github.com",
+  "git_repo_url": "https://api.github.com/repos/cubehouse/themeparks REPLACE WITH YOUR REPO",
+  "git_username": "YOUR_GITHUB_ACCOUNT",
+  "git_access_token": "YOUR_GITHUB_ACCESS_TOKEN",
+  "azure_blob_container":  "YOUR_AZURE_BLOB_CONTAINER"
+}
