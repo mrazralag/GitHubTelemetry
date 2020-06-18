@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GitHubTelemetry": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "STORAGE_CONNECTION": "DefaultEndpointsProtocol=https;AccountName=telemetrytestgithub;AccountKey=XcVmJY0QWv5tmyGggaaEVjRiD2d6RaS3bIu3HsUTTYnTfROkvuYSJwczUhZwE/ZivRrxYwYGOeNvNGpmtBKGvQ==;EndpointSuffix=core.windows.net"
+      }
+    }
+  }
+}
